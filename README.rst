@@ -14,3 +14,7 @@ gcc hello_world.c -o hello
 Then execute ::
 ./hello
 
+
+Thanks for using our hello world program.
+
+
